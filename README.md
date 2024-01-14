@@ -1,1 +1,1 @@
-# Vrinda-Store-Data-Analysis-using-excel
+# Store-Data-Analysis-using-excel
